@@ -3,7 +3,9 @@
 # Complete Basics of Javascript
 
 > Basics of javascript
+
 > DOM Manipulation
+
 > Events
 
 
