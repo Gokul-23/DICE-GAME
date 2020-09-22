@@ -1,5 +1,7 @@
 # DICE-GAME
 
+# Complete Basics of Javascript
+
 ## Rules of the Game
 
 
