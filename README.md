@@ -2,6 +2,11 @@
 
 # Complete Basics of Javascript
 
+> Basics of javascript
+> DOM Manipulation
+> Events
+
+
 ## Rules of the Game
 
 
