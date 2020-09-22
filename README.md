@@ -9,7 +9,7 @@
 > Events
 
 
-## Rules of the Game
+## Created based on the Rules
 
 
 > If both the dice are 1, then you lose your turn
